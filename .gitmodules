@@ -1,3 +1,6 @@
 [submodule "Nifi"]
 	path = Nifi
 	url = git@github.com:apacheimages/Nifi.git
+[submodule "base"]
+	path = base
+	url = git@github.com:apacheimages/base.git
