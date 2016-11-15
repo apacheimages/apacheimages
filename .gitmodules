@@ -1,0 +1,3 @@
+[submodule "Nifi"]
+	path = Nifi
+	url = git@github.com:apacheimages/Nifi.git
