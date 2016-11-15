@@ -4,3 +4,6 @@
 [submodule "base"]
 	path = base
 	url = git@github.com:apacheimages/base.git
+[submodule "couchdb"]
+	path = couchdb
+	url = git@github.com:apacheimages/couchdb.git
