@@ -3,7 +3,10 @@
 	url = git@github.com:apacheimages/Nifi.git
 [submodule "base"]
 	path = base
-	url = git@github.com:apacheimages/base.git
+	url = git@me.github.com:apacheimages/base.git
 [submodule "couchdb"]
 	path = couchdb
 	url = git@github.com:apacheimages/couchdb.git
+[submodule "kafka"]
+	path = kafka
+	url = git@me.github.com:apacheimages/kafka.git
